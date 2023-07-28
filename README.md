@@ -45,6 +45,6 @@
 </br>
 
 ## 5. 시연 영상
-
+![시연영상_resize](https://github.com/SaWooWon/WeatherWear/assets/122271556/3fa39176-3955-47ee-b2ce-35c287df51b6)
 ## 6. 회고 / 느낀점
 >
